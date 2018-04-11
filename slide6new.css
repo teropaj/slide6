@@ -11,6 +11,8 @@ img     {width: 100%;}
 
 #pict-text {width: 20%;
         background-color: blue;
+        position:relative;
+        right:400px;
 
 
 
@@ -18,7 +20,7 @@ img     {width: 100%;}
 
 
   }
-button {position: block;
+button {align: middle;
       }
 .grid-container {
         display: grid;
