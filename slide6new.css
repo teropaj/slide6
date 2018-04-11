@@ -1,0 +1,28 @@
+p {text-align: center;}
+
+#upper {background-color: yellow;
+        height:200px;
+        width:100%;}
+#pict   {background-color: green;
+        width: 40%;
+        height: 100%;
+      }
+img     {width: 100%;}
+
+#pict-text {width: 20%;
+        background-color: blue;
+
+
+
+
+
+
+  }
+button {position: block;
+      }
+.grid-container {
+        display: grid;
+        grid-template-columns: auto auto;
+        background-color: grey;
+        padding: 10px;
+      }
