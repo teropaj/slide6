@@ -1,11 +1,16 @@
 body, html{
+  width: 100%;
   height: 100%;
+  background-size: 100% 100%;
+
 }
-.upper {width:100%;height: 40%;
-        background-color: #aa0000;}
-.kuva {height:100%; float: left;background-color: green;}
-div.review {width: 20%;float:left;}
-div #footer {background-color: yellow;
+.upper {width:100%;height: 30%;}
+
+.kuva {padding-left: 20%;
+      height:100%; float: left; }
+div.review {padding-left: 1%;width: 20%;float:left;
+             }
+div #footer {
             width:100%;
             height: 20%;
             top: 40%;
@@ -13,11 +18,11 @@ div #footer {background-color: yellow;
             }
 .instructions {width: 60%;
                height: 20%;
-               background-color: yellow;
+
                float: left;}
 #incredients {width: 40%;
               height: 20%;
-              background-color: green;
+
               float: right;
                }
 .imgButton{
